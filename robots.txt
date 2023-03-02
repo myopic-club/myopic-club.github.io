@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://myopic.club/sitemap.xml
